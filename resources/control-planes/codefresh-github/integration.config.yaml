@@ -6,5 +6,5 @@ metadata:
     codefresh.io/entity: integration-config
     codefresh.io/integration-type: registry.ghcr
 data:
-  domain: ghcr.io
+  domain: ammarahmed.cf
   username: ammar-ahmed-butt
